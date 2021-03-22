@@ -1,0 +1,19 @@
+.slider-background{
+   background-color: #fceae8;
+   margin-bottom: 100px;
+   height: 500px;
+}
+.panda-catagories img{
+    width: 100px;
+}
+.radius{
+    border-radius: 13px;
+    margin-top: 10px;
+}
+.shoe-card{
+    border: 0;
+}
+.panda-footer {
+    background-color: white;
+    border: none;
+}
